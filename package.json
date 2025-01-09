@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smile0507/node-service-base-dev.git"
+    "url": "git+https://github.com/bitoro-network/node-service-base-dev.git"
   },
   "author": "Bitoro Network.",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/smile0507/node-service-base-dev/issues"
+    "url": "https://github.com/bitoro-network/node-service-base-dev/issues"
   },
-  "homepage": "https://github.com/smile0507/node-service-base-dev#readme",
+  "homepage": "https://github.com/bitoro-network/node-service-base-dev#readme",
   "dependencies": {
     "@types/jest": "^28.1.1",
     "@types/lodash": "^4.14.161",
